@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    -Ideps
+    -IC:\msys64\ucrt64\include\krpc_cnano
